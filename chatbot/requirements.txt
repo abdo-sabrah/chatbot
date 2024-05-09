@@ -1,4 +1,4 @@
-guinicorn
+gunicorn
 numpy
 nltk
 random
